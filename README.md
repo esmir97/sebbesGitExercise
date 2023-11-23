@@ -1,2 +1,0 @@
-# sebbesGitExercise
-Sebbes github övning
